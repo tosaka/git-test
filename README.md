@@ -1,4 +1,5 @@
 test git
 example this.
 
- - feature-A
+ -feature-A
+ -fix-B
